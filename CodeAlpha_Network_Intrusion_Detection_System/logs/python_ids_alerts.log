@@ -1,0 +1,2 @@
+[2026-01-15 10:42:11] ICMP Ping Detected | Source: 10.0.2.15 → Destination: 10.0.2.15
+[2026-01-15 10:43:02] TCP SYN Scan Detected | Source: 10.0.2.15 → Destination: 10.0.2.15
